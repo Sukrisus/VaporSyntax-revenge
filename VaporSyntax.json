@@ -1,11 +1,11 @@
 {
-    "name": "YouPink",
-    "description": "pink based on material you :3",
+    "name": "VaporSyntax",
+    "description": "Chill pink based revenge theme",
     "version": "1.0",
     "authors": [
       {
-        "name": "dor4a #avtvshutup",
-        "id": "455513497288310785"
+        "name": "yami @yami_is_hot",
+        "id": "947399208678359070"
       }
     ],
     "semanticColors": {
@@ -95,7 +95,6 @@
 		"REDESIGN_BUTTON_DESTRUCTIVE_TEXT":  [ "#FAADEC" ],
 		"REDESIGN_BUTTON_ACTIVE_TEXT":  [ "#FAADEC" ],
 		"CONTEXT_MENU_BACKDROP_BACKGROUND":  [ "#0E0A0Daa" ],
-		"STATUS_DANGER":  [ "#FF85FF" ],
 		"REDESIGN_BUTTON_DANGER_BACKGROUND":  [ "#31212E" ],
 		"STATUS_DANGER_TEXT":  [ "#FAADEC" ],
 		"STATUS_WARNING":  [ "#FF85FF" ],
